@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more - all while trying to survive.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | OS X 10.9 Mavericks |
+| **Processor** | Min: Intel Haswell 2 cores / 4 threads @ 2.5Ghz or equivalen… / Rec: Intel Haswell 4 cores / 4 threads @ 3.2Ghz or equivalen… | Intel Haswell 2 cores / 4 threads @ 2.5Ghz or equivalen… |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: Intel HD 4600 or equivalent - This includes most GPUs s… / Rec: Nvidia GTX 550 Ti or equivalent, 2GB VRAM | Intel HD 4600 or equivalent |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 20 GB available space | 20 GB available space |
+| **OS *** | Windows Vista SP2 or newer, 64-bit | Windows Vista SP2 or newer, 64-bit |
+| **VR Support** | SteamVR. Keyboard or gamepad required | SteamVR. Keyboard or gamepad required |
 
 ---
 
